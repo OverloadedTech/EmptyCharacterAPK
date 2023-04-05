@@ -1,4 +1,7 @@
 # Empty Character
+
+TODO: Add Screemshots on Empty Character Website
+
 This is a simple app that will allow you to copy a special character allowing you to send messages, emails and other to anyone
 This repository host the APK and will be used as a direct connection of the app website (the app is also available on The Google Play Store) so if users open from the website: https://github.com/OverloadedTech/emptycharacter2.0.1-apk/raw/main/EmptyCharacter2.0.2.apk they will get here
 
